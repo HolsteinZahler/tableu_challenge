@@ -2,7 +2,7 @@
 
 ## Description
 
-This project was to visualize data from the [New York Citi Bike Program](https://en.wikipedia.org/wiki/Citi_Bike) using data found [here](https://www.citibikenyc.com/system-data)
+This project was to visualize data from the [New York Citi Bike Program](https://en.wikipedia.org/wiki/Citi_Bike) using data found [here](https://www.citibikenyc.com/system-data). The visualizations may be viewed by following the links in the Dashboard 1, 2, and 3 sections below.
 
 ## Technologies Employed
 
