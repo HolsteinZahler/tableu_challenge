@@ -14,7 +14,7 @@ This project was to visualize data from the [New York Citi Bike Program](https:/
 
 ## Data prep
 
-Though I prepared many more files for use, I was only able to use the past two years worth of data.  The gathered data was about 754 Mb.  The jupyter notebook file ``data_prep.ipynb`` was used to automate extraction of zip files and to standardize data column labels.
+Though I prepared many more files for use, I was only able to use the past two years worth of data.  The gathered data was about 754 Mb.  The jupyter notebook file ``data_prep.ipynb`` was used to automate extraction of zip files, standardize data column labels, and gather data into a single csv file (``gathered_bike_data.csv``) to be loaded in Tableu. 
 
  In a Tableu work book, I made three stories corresponding to the three dashboards.  The captions for these are under the next three headings.
 
